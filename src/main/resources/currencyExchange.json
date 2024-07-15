@@ -1,0 +1,274 @@
+[
+  {
+    "id": 3439,
+    "value": 42.6997,
+    "nominal": 1,
+    "currencyName": "Австралийский доллар",
+    "currencyCode": "AUD",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3440,
+    "value": 37.1835,
+    "nominal": 1,
+    "currencyName": "Азербайджанский манат",
+    "currencyCode": "AZN",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3441,
+    "value": 77.4537,
+    "nominal": 1,
+    "currencyName": "Фунт стерлингов Соединенного королевства",
+    "currencyCode": "GBP",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3442,
+    "value": 16.0002,
+    "nominal": 100,
+    "currencyName": "Армянских драмов",
+    "currencyCode": "AMD",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3443,
+    "value": 25.2626,
+    "nominal": 1,
+    "currencyName": "Белорусский рубль",
+    "currencyCode": "BYN",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3444,
+    "value": 34.1354,
+    "nominal": 1,
+    "currencyName": "Болгарский лев",
+    "currencyCode": "BGN",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3445,
+    "value": 11.9126,
+    "nominal": 1,
+    "currencyName": "Бразильский реал",
+    "currencyCode": "BRL",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3446,
+    "value": 16.2065,
+    "nominal": 100,
+    "currencyName": "Венгерских форинтов",
+    "currencyCode": "HUF",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3447,
+    "value": 81.3958,
+    "nominal": 10,
+    "currencyName": "Гонконгских долларов",
+    "currencyCode": "HKD",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3448,
+    "value": 89.763,
+    "nominal": 10,
+    "currencyName": "Датских крон",
+    "currencyCode": "DKK",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3449,
+    "value": 63.212,
+    "nominal": 1,
+    "currencyName": "Доллар США",
+    "currencyCode": "USD",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3450,
+    "value": 66.7017,
+    "nominal": 1,
+    "currencyName": "Евро",
+    "currencyCode": "EUR",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3451,
+    "value": 76.8255,
+    "nominal": 100,
+    "currencyName": "Индийских рупий",
+    "currencyCode": "INR",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3452,
+    "value": 13.4514,
+    "nominal": 100,
+    "currencyName": "Казахстанских тенге",
+    "currencyCode": "KZT",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3453,
+    "value": 46.282,
+    "nominal": 1,
+    "currencyName": "Канадский доллар",
+    "currencyCode": "CAD",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3454,
+    "value": 74.4108,
+    "nominal": 100,
+    "currencyName": "Киргизских сомов",
+    "currencyCode": "KGS",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3455,
+    "value": 90.3731,
+    "nominal": 10,
+    "currencyName": "Китайских юаней",
+    "currencyCode": "CNY",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3456,
+    "value": 32.6266,
+    "nominal": 10,
+    "currencyName": "Молдавских леев",
+    "currencyCode": "MDL",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3457,
+    "value": 63.7681,
+    "nominal": 10,
+    "currencyName": "Норвежских крон",
+    "currencyCode": "NOK",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3458,
+    "value": 14.1865,
+    "nominal": 1,
+    "currencyName": "Польский злотый",
+    "currencyCode": "PLN",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3459,
+    "value": 13.5008,
+    "nominal": 1,
+    "currencyName": "Румынский лей",
+    "currencyCode": "RON",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3460,
+    "value": 83.9588,
+    "nominal": 1,
+    "currencyName": "СДР (специальные права заимствования)",
+    "currencyCode": "XDR",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3461,
+    "value": 46.644,
+    "nominal": 1,
+    "currencyName": "Сингапурский доллар",
+    "currencyCode": "SGD",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3462,
+    "value": 61.9307,
+    "nominal": 10,
+    "currencyName": "Таджикских сомони",
+    "currencyCode": "TJS",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3463,
+    "value": 33.918,
+    "nominal": 10,
+    "currencyName": "Турецких лир",
+    "currencyCode": "TRY",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3464,
+    "value": 18.0606,
+    "nominal": 1,
+    "currencyName": "Новый туркменский манат",
+    "currencyCode": "TMT",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3465,
+    "value": 56.0825,
+    "nominal": 10000,
+    "currencyName": "Узбекских сумов",
+    "currencyCode": "UZS",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3466,
+    "value": 17.1159,
+    "nominal": 10,
+    "currencyName": "Украинских гривен",
+    "currencyCode": "UAH",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3467,
+    "value": 27.4644,
+    "nominal": 10,
+    "currencyName": "Чешских крон",
+    "currencyCode": "CZK",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3468,
+    "value": 61.3607,
+    "nominal": 10,
+    "currencyName": "Шведских крон",
+    "currencyCode": "SEK",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3469,
+    "value": 67.4981,
+    "nominal": 1,
+    "currencyName": "Швейцарский франк",
+    "currencyCode": "CHF",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3470,
+    "value": 35.8804,
+    "nominal": 10,
+    "currencyName": "Южноафриканских рэндов",
+    "currencyCode": "ZAR",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3471,
+    "value": 48.4012,
+    "nominal": 1000,
+    "currencyName": "Вон Республики Корея",
+    "currencyCode": "KRW",
+    "date": "2022-12-14"
+  },
+  {
+    "id": 3472,
+    "value": 45.8723,
+    "nominal": 100,
+    "currencyName": "Японских иен",
+    "currencyCode": "JPY",
+    "date": "2022-12-14"
+  }
+]
